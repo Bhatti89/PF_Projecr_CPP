@@ -29,10 +29,6 @@ This banking system allows users to perform various banking operations such as o
 
 Contributions are welcome! If you have any ideas for improvements or find any bugs, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - This project was created as a learning exercise in C++ programming.
